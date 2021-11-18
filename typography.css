@@ -1,0 +1,45 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+/* Font size */
+
+.fs-tiny {
+  font-size: 14px;
+  line-height: 1.14;
+}
+
+.fs-small {
+  font-size: 14px;
+  line-height: 1.43;
+}
+
+.fs-medium {
+  font-size: 16px;
+  line-height: 1.25;
+}
+
+.fs-large {
+  font-size: 20px;
+  line-height: 1.6;
+}
+
+/* Font weight */
+
+.fw-noraml {
+  font-weight: 400;
+}
+
+.fw-bold {
+  font-weight: 500;
+}
+
+/* colors */
+
+.text-dark {
+  color: #151b26;
+}
+
+.text-light {
+  color: #7d858f;
+}
